@@ -5,6 +5,7 @@ public class Main {
 		
 	}
 	
+
 	public float divide(int a, int b) {
 		return (float) a / b;
 	}
